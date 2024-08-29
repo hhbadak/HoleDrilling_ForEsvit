@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoleDrillingApp", "HoleDrillingApp\HoleDrillingApp.csproj", "{67FD0014-400C-4681-9FEF-7DA1C1A000FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{66CAD87B-94CE-4713-BF8B-E4815ED364F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67FD0014-400C-4681-9FEF-7DA1C1A000FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67FD0014-400C-4681-9FEF-7DA1C1A000FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67FD0014-400C-4681-9FEF-7DA1C1A000FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67FD0014-400C-4681-9FEF-7DA1C1A000FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66CAD87B-94CE-4713-BF8B-E4815ED364F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66CAD87B-94CE-4713-BF8B-E4815ED364F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66CAD87B-94CE-4713-BF8B-E4815ED364F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66CAD87B-94CE-4713-BF8B-E4815ED364F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E449827-764D-4C67-A7F3-27C20024637B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\HoleDrillingApp\HoleDrillingApp\obj\Debug\HoleDrillingApp.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\HoleDrillingApp\HoleDrillingApp\obj\Debug\HoleDrillingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\HoleDrillingApp\HoleDrillingApp\obj\Debug\HoleDrillingApp.LoginPage.resources
+C:\Users\USER\source\repos\HoleDrillingApp\HoleDrillingApp\obj\Debug\HoleDrillingApp.Properties.Resources.resources
+C:\Users\USER\source\repos\HoleDrillingApp\HoleDrillingApp\obj\Debug\HoleDrillingApp.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\HoleDrillingApp\HoleDrillingApp\obj\Debug\HoleDrillingApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HoleDrillingApp\HoleDrillingApp\bin\Debug\HoleDrillingApp.exe.config
+C:\Users\USER\source\repos\HoleDrillingApp\HoleDrillingApp\bin\Debug\HoleDrillingApp.exe
+C:\Users\USER\source\repos\HoleDrillingApp\HoleDrillingApp\bin\Debug\HoleDrillingApp.pdb
+C:\Users\USER\source\repos\HoleDrillingApp\HoleDrillingApp\bin\Debug\DataAccessLayer.dll
+C:\Users\USER\source\repos\HoleDrillingApp\HoleDrillingApp\bin\Debug\DataAccessLayer.pdb
+C:\Users\USER\source\repos\HoleDrillingApp\HoleDrillingApp\obj\Debug\HoleDrillingApp.csproj.CopyComplete
+C:\Users\USER\source\repos\HoleDrillingApp\HoleDrillingApp\obj\Debug\HoleDrillingApp.exe
+C:\Users\USER\source\repos\HoleDrillingApp\HoleDrillingApp\obj\Debug\HoleDrillingApp.pdb
+C:\Users\USER\source\repos\HoleDrillingApp\HoleDrillingApp\obj\Debug\HoleDrillingApp.Home.resources
